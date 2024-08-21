@@ -13,7 +13,7 @@ export default function Home() {
         </Head>
         <section className='flex flex-col items-center justify-center m-auto max-w-screen-lg mt-40 lg:mt-56'>
           <Image
-            src='/logo.png'
+            src='https://croissantio.github.io/croissant-website/logo.png'
             alt='Croissant logo'
             className='cursor-pointer font-body font-black text-2xl text-white'
             width={211}
