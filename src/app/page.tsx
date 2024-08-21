@@ -9,7 +9,7 @@ export default function Home() {
         <meta name='viewport' content='initial-scale=1.0, width=device-width' />
         <meta name='referrer' content='no-referrer' />
         <link rel='icon' type='image/x-icon' href='/images/favicon.png' />
-        <link rel='alternate' hrefLang='en' href={process.env.NEXTAUTH_URL} />
+        <link rel='alternate' hrefLang='en'/>
         </Head>
         <section className='flex flex-col items-center justify-center m-auto max-w-screen-lg mt-40 lg:mt-56'>
           <Image
